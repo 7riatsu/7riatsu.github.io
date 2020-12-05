@@ -9,8 +9,18 @@
 		
 		<managingEditor>Page(/tags) (Atsuki Narita)</managingEditor>
     	
+  		<lastBuildDate>Sun, 06 Dec 2020 00:00:00 +0900</lastBuildDate>
+		
 		<atom:link href="/tags/" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>21新卒ソフトウェアエンジニア職の就活振り返り</title>
+			<link>https://7riatsu.com/post/new-grad-job-hunting-result/</link>
+			<pubDate>Sun, 06 Dec 2020 00:00:00 +0900</pubDate>
+			<guid>https://7riatsu.com/post/new-grad-job-hunting-result/</guid>
+			<description></description>
+		</item>
+      	
 		<item>
 			<title>Hello World!</title>
 			<link>https://7riatsu.com/post/hello/</link>

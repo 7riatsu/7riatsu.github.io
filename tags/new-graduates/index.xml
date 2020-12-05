@@ -1,17 +1,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>7riatsu&#39;s blog on 7riatsu&#39;s blog</title>
-		<link>https://7riatsu.com/</link>
-		<description>Recent content in 7riatsu&#39;s blog </description>
+		<title>new-graduates on 7riatsu&#39;s blog</title>
+		<link>https://7riatsu.com/tags/new-graduates/</link>
+		<description>Recent content in new-graduates </description>
 		<generator>Hugo -- gohugo.io</generator>
 		
   		<language>jp</language>
 		
-		<managingEditor>Page(&#34;7riatsu&#39;s blog&#34;) (Atsuki Narita)</managingEditor>
+		<managingEditor>Page(/tags/new-graduates) (Atsuki Narita)</managingEditor>
     	
   		<lastBuildDate>Sun, 06 Dec 2020 00:00:00 +0900</lastBuildDate>
 		
-		<atom:link href="/" rel="self" type="application/rss+xml" />
+		<atom:link href="/tags/new-graduates/" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>21新卒ソフトウェアエンジニア職の就活振り返り</title>
