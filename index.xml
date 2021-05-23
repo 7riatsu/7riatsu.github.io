@@ -9,10 +9,18 @@
 		
 		<managingEditor>Page(&#34;7riatsu&#39;s blog&#34;) (Atsuki Narita)</managingEditor>
     	
-  		<lastBuildDate>Sun, 06 Dec 2020 00:00:00 +0900</lastBuildDate>
+  		<lastBuildDate>Sun, 23 May 2021 14:36:42 +0900</lastBuildDate>
 		
 		<atom:link href="/" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>社会人になった所感</title>
+			<link>https://7riatsu.com/post/becoming-a-member-of-society/</link>
+			<pubDate>Sun, 23 May 2021 14:36:42 +0900</pubDate>
+			<guid>https://7riatsu.com/post/becoming-a-member-of-society/</guid>
+			<description></description>
+		</item>
+      	
 		<item>
 			<title>21新卒ソフトウェアエンジニア職の就活振り返り</title>
 			<link>https://7riatsu.com/post/new-grad-job-hunting-result/</link>
